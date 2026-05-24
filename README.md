@@ -15,6 +15,7 @@ The system can detect and localize anomalies such as:
 without requiring any task-specific fine-tuning or supervised training.
 
 ---
+<img width="960" height="496" alt="plate vlm" src="https://github.com/user-attachments/assets/ccc13250-0627-4241-966e-83e081535ea6" />
 
 ## Features
 
@@ -133,6 +134,7 @@ The system generates:
 - Open-vocabulary anomaly predictions
 
 ---
+<img width="960" height="496" alt="egg vlm" src="https://github.com/user-attachments/assets/10420d20-1d43-42d5-9327-92102b30b9a0" />
 
 ## Example Pipeline
 
